@@ -1,0 +1,16 @@
+[debug] [watch] [scalameta / Test / test] Found inputs: C:\GitLab\scalameta\*.{java,scala},C:\GitLab\scalameta\src\main\java\**\*.{java,scala},C:\GitLab\scalameta\src\main\resources\**\*,C:\GitLab\scalameta\src\main\scala\**\*.{java,scala},C:\GitLab\scalameta\src\main\scala-2.11\**\*.{java,scala},C:\GitLab\scalameta\src\test\java\**\*.{java,scala},C:\GitLab\scalameta\src\test\resources\**\*,C:\GitLab\scalameta\src\test\scala\**\*.{java,scala},C:\GitLab\scalameta\src\test\scala-2.11\**\*.{java,scala}
+[info] 1. Monitoring source files for scalameta/test...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] scalameta / Test / test - Accepted event for C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala
+[debug] Received Update(C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] scalameta / Test / test - Accepted event for C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala
+[debug] Received Update(C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala,FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false),FileAttributes(isDirectory = false, isOther = false,isRegularFile = true, isSymbolicLink = false))
+[debug] Received event for path C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala
+[debug] Received event for path C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala
+[debug] Creating update event for modified C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala (previous stamp: Hash(d835cef4efcb26bc72867f02d21f9e6adc09a528), current stamp: Hash(4fe73f368e800c980a60a0e9818ed9297bfff0a9))
+[debug] Received file event actions: C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala -> Trigger. Returning: (Update(C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala, 2020-Jul-11 13:08:42.879 BT),Trigger)
+[info] Build triggered by C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala. Running 'test'.
+[debug] [watch] [debug] Received file event Trigger for Update(C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala, 2020-Jul-11 13:08:42.879 BT).
+[info] 2. Monitoring source files for scalameta/test...
+[info]    Press <enter> to interrupt or '?' for more options.
+[debug] Discarding entry for recently updated path C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala. This event occurred 7 ms since the last event for this path.

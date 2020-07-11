@@ -1,0 +1,6 @@
+[debug] Acquiring lock on file C:\GitLab\scalameta\project\target\.sbt-compilation-infos\scalameta-test\.sbt-idea-lock ...
+[error] C:\GitLab\scalameta\src\test\scala\practice\MacrosTest.scala:9:18: value toMap is not a member of practice.TestClass
+[error]     TestClass(1).toMap() shouldEqual Map.empty[String, Any]
+[error]                  ^
+[error] one error found
+[debug] Releasing lock on file C:\GitLab\scalameta\project\target\.sbt-compilation-infos\scalameta-test\.sbt-idea-lock.
